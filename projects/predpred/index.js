@@ -4,7 +4,7 @@ module.exports = {
   sei: {
     tvl: sumTokensExport({
       owners: [
-        '0x60B5C6dc0C523a4d17111d6cfB915D8983A66030'
+        '0x84948feBDffaE3a62d7Ac05B1428B3a6cC2BfBA4'
       ], tokens: ['0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392']
     })
   },
